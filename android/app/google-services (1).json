@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "485830576729",
+    "project_id": "l-immonde",
+    "storage_bucket": "l-immonde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485830576729:android:d6fe3430c9693d641d3f48",
+        "android_client_info": {
+          "package_name": "com.limmonde"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC560xHrB1LVuRSVyXAJTN4UoukexlSX58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485830576729:android:1a64bf593f436c3e1d3f48",
+        "android_client_info": {
+          "package_name": "com.limmonde"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC560xHrB1LVuRSVyXAJTN4UoukexlSX58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
